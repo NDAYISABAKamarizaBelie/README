@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open source projects that make a difference.
 - 💬 Ask me about web development, cloud computing, and open source.
-- 📫 How to reach me: [Email](ndayisababelie2004@gmail.com)
+- 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/#inbox)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to make difference and exploring new places.
 
